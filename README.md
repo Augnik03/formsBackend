@@ -18,7 +18,7 @@ This repository contains the backend server for the project FormsReplica. Follow
 2. Navigate to the backend directory:
 
    ```bash
-   cd formBackend
+   cd formsBackend
    ```
 
 3. Install the dependencies:
