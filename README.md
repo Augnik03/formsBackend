@@ -26,7 +26,7 @@ This repository contains the backend server for the project FormsReplica. Follow
    ```bash
    npm i express body-parser 
    npm i --save-dev typescript @types/express @types/node ts-node nodemon
-   npm i --save-dev @typex/cors
+   npm i --save-dev @types/cors
    ```
 
 ## Configuration
